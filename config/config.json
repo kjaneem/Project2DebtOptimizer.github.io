@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "silver63",
     "port": "3306",
     "database": "loan_db",
     "host": "127.0.0.1",
